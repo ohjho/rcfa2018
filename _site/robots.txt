@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ohjho.github.io/asphodel2018/sitemap.xml

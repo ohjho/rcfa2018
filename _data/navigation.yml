@@ -1,0 +1,60 @@
+#
+#   Navigation to the left › side: left
+#
+- title: Home
+  url: "/"
+  side: left
+
+- title: "About"
+  url: "#"
+  side: left
+  dropdown:
+  - title: "What is Crossfit"
+    url: "crossfitasphodel.com/what-is-crossfit"
+  - title: "Try us out"
+    url: "crossfitasphodel.com/im-ready-to-give-it-a-try"
+  - title: "Our Packages"
+    url: "crossfitasphodel.com/getting-started"
+  - title: "Our Team"
+    url: "crossfitasphodel.com/coaches-trainers-and-team"
+  - title: "Drop-in"
+    url: "crossfitasphodel.com/drop-ins"
+  - title: "Contact"
+    url: "crossfitasphodel.com/contact-us"
+
+- title: "W.O.D."
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "WOD Archive"
+    url: "/blog/archive/"
+
+- title: Kids
+  url: "crossfitasphodel.com/kids"
+  side: left
+
+- title: Schedule
+  url: "https://clients.mindbodyonline.com/classic/home?studioid=491393"
+  side: left
+
+- title: Events
+  url: "crossfitasphodel.com/events"
+  side: left
+
+
+
+
+#
+#   Navigation to the right › side: right
+#
+- title: "Info"
+  url: "/info/"
+  side: right
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
